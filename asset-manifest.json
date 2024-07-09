@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pm-personified-cute/static/css/main.6f5e65b9.css",
+    "main.js": "/pm-personified-cute/static/js/main.fecd3a6d.js",
+    "static/js/885.742e2445.chunk.js": "/pm-personified-cute/static/js/885.742e2445.chunk.js",
+    "static/media/bg.png": "/pm-personified-cute/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/card.png": "/pm-personified-cute/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/robotalk3_6.wav": "/pm-personified-cute/static/media/robotalk3_6.65e970ce8aa080e09e9a.wav",
+    "static/media/pm-cr.png": "/pm-personified-cute/static/media/pm-cr.1ebb2021c51b4ded5a9e.png",
+    "static/media/robotalk7_5.wav": "/pm-personified-cute/static/media/robotalk7_5.18f1979a6c229ac01ecd.wav",
+    "static/media/pm.png": "/pm-personified-cute/static/media/pm.3230d1f6ff82372ee3e4.png",
+    "static/media/robotalk0_11.wav": "/pm-personified-cute/static/media/robotalk0_11.fcfc231e8ec6184f1317.wav",
+    "static/media/robotalk7_10.wav": "/pm-personified-cute/static/media/robotalk7_10.512e32aa0b2f91274208.wav",
+    "static/media/robotalk6_10.wav": "/pm-personified-cute/static/media/robotalk6_10.43c3ddf5976225309a5e.wav",
+    "index.html": "/pm-personified-cute/index.html",
+    "main.6f5e65b9.css.map": "/pm-personified-cute/static/css/main.6f5e65b9.css.map",
+    "main.fecd3a6d.js.map": "/pm-personified-cute/static/js/main.fecd3a6d.js.map",
+    "885.742e2445.chunk.js.map": "/pm-personified-cute/static/js/885.742e2445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5e65b9.css",
+    "static/js/main.fecd3a6d.js"
+  ]
+}
